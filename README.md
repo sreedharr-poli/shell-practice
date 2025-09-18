@@ -1,1 +1,1 @@
-# code-devops
+# shell practice
