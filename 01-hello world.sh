@@ -1,2 +1,3 @@
 !#/bin/bash 
-echo "Welcome two the Devops World"
+# writing first script
+echo "Welcome two the Devops World!"
